@@ -1,4 +1,4 @@
-#Homework 2 - No Silver Bullet
+# Homework 2 - No Silver Bullet
 ## TEAM: Dania Elmadhun and Preethi Vijai LIlly
 
 1. **Define the term _essential difficulties_ as it is used by Brooks. Provide background and context with your answer and at least one example of an essential difficulty.**
